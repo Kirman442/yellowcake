@@ -42,8 +42,6 @@ The second paragraph. This is placeholder text that our web designers put here t
 > They can span multiple paragraphs,
 > if you like.
 
-## Heading 2
-
 # Heading 1
 
 ## Heading 2
